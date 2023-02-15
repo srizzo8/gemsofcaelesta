@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RedGem
+  - Grass
+  - DrAurora
+  - LarinianSoldier
+  - aurorasCrouchPos
+  - FirstRedGem
+  - GUIFirstRedGem
+  - 1RedGem
+  - FirstEnemyTrigger
+  - FET2
+  - EnemyHitSprite
+  - AquaAcid
+  - LarinianSoldier2
+  - DisappearingPlatform
+  - LarinianSoldier3
+  - Laser
+  - MovingPlatform
+  - Pitfall
+  - WarpPad
+  - UpDownLilac
+  - Resurrection
+  - Level2Spawn
+  - RedGem2
+  - Guide
+  - Guide2
+  - Guide3
+  - Guide4
+  - Guide5
+  - Lava
+  - Checkpoint
+  - LevelPad
+  - LevelPad1
+  - LevelPad2
+  - SuperGem
+  - Level3Pad
+  - Barrel
+  - BarrelFlare
+  - HeartSprite
+  - TheSwordItself
+  - ExplosiveBarrel
+  - Explosion
+  - Door
+  - DoorMat
+  - BigDoor
+  - SecretSlime
+  - FuturisticSign
+  - Level4Pad
+  - Icicle
+  - Ice
+  - FrozenBullet
+  - Log
+  - Burning
+  - Barrel2
+  - FireBreath
+  - VikingsSword
+  - CheckpointT1
+  - CheckpointT2
+  - CavernSpike
+  - Borealia
+  - PowerKey
+  - KeyDoor
+  - DeadlyCrystal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - LarinianSoldierLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

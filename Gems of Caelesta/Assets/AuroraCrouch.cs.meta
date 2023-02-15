@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5bec9705c65f5f94dbe3dcb20faae1e8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hada: {fileID: 21300000, guid: e4297a75bc4af4342a1e8f8bec833e8e, type: 3}
+  - regular: {fileID: 21300000, guid: d534b85f989b52f45a1e80f6cc4d3225, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
